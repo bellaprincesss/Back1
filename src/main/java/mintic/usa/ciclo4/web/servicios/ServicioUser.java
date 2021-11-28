@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author Oscar
+ * @author laura
  */
 @Service
 public class ServicioUser {
