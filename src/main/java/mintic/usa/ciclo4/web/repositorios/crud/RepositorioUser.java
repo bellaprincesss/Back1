@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author Oscar
+ * @author laura
  */
 @Repository
 public class RepositorioUser {
